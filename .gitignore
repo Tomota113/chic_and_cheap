@@ -4,3 +4,6 @@ __pycache__/
 *.log
 .agents/
 .DS_Store
+dist/
+build/
+*.spec
